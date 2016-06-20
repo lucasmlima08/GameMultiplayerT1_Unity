@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Connection\Controller.cs">
+    <Files>
+      <File FileName="Game Networking.sln" Line="53" Column="1" />
+      <File FileName="Assets\Scripts\Player\Movement.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Connection\Controller.cs" Line="21" Column="4" />
+      <File FileName="Assets\Scripts\Player\Rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Model\CameraServer.js" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\Model\CameraServer.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

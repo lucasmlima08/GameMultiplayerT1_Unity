@@ -1,0 +1,12 @@
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Lucas M Lima\Dropbox\Projetos\Código Fonte\Pessoais\Unity\Game Networking\obj\Debug\Assembly-CSharp-firstpass.pdb
